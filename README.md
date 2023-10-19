@@ -1,6 +1,6 @@
 # BlogPost
 This is an example of blog post creation using Golang, GIN, GORM(MySql), and RestAPI.
-PostMan collection is included in the root folder.
+PostMan collection and database are also included in the root folder.
 
 HOW TO USE:
 1) create the database manually with the name user_blog
