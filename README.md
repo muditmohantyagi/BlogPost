@@ -1,5 +1,5 @@
 # BlogPost
-This is an example of blog post creation using Golang, GIN, GORM(MySql), and RestAPI.
+This is an example of blog post creation using Golang, GIN, GORM(MySql), cobra cli and RestAPI.
 PostMan collection and database are also included in the root folder.
 
 HOW TO USE:
